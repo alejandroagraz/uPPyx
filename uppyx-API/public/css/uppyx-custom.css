@@ -1,0 +1,11 @@
+select.hourselect, select.minuteselect, select.ampmselect {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    color: #fff !important;
+    height: 48px !important;
+    margin: 10px 0 10px 0;
+    border-radius: 10px !important;
+    text-indent: 10px;
+    font-size: 12px !important;
+    background: url('../images/arrow_gray.png') no-repeat 95% center #00102d  !important;
+}

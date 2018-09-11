@@ -1,0 +1,117 @@
+.btn-dashboard{
+    outline: none;
+    border: none;
+    font-size: 22px;
+    color: #2bbd0f;
+    background-color: transparent;
+}
+
+.chart-container{
+}
+
+.chart-wrapper {
+  background: #fff;
+  border: 1px solid #e2e2e2;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+.chart-wrapper .chart-title {
+  border-bottom: 1px solid #d7d7d7;
+  color: #666;
+  font-size: 14px;
+  font-weight: 200;
+  padding: 7px 10px 4px;
+}
+
+.chart-wrapper .chart-stage {
+  overflow: hidden;
+  padding: 5px 10px;
+  position: relative;
+}
+
+.chart-wrapper .chart-notes {
+  background: #fbfbfb;
+  border-top: 1px solid #e2e2e2;
+  color: #808080;
+  font-size: 12px;
+  padding: 8px 10px 5px;
+}
+
+.font-adjust{
+  font-size: 18px !important;
+  cursor: pointer;
+}
+.info-box {
+  display: block;
+  min-height: 90px;
+  background: #fff;
+  width: 100%;
+  border-radius: 2px;
+  margin-bottom: 15px;
+}
+.info-box-icon {
+  display: block;
+  float: left;
+  height: 90px;
+  width: 90px;
+  text-align: center;
+  font-size: 45px;
+  line-height: 90px;
+  color: #2bbd0f;
+}
+.info-box-content {
+  padding: 5px 10px;
+  margin-left: 90px;
+}
+.info-box-text {
+  text-transform: uppercase;
+  color: #b0b0b0;
+}
+.info-box-number {
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+  color: #b0b0b0;
+}
+.info-box .progress, .info-box .progress .progress-bar {
+  border-radius: 0;
+}
+.info-box .progress {
+  background: rgba(0,0,0,0.2);
+  margin: 5px -10px 5px -10px;
+  height: 4px;
+}
+.info-box .progress .progress-bar {
+  height: 4px;
+  border: solid 4px #00102d;
+  width: 100%
+}
+.modal-body {
+    max-height: 550px;
+    overflow-y: auto;
+}
+.progress-description {
+  margin: 0;
+}
+.progress-description, .info-box-text {
+    display: block;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.progress-description, .info-box-text {
+  display: block;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.space-top{
+  margin-top: 65px;
+}
+
+.space-bottom{
+  margin-bottom: 60px
+}

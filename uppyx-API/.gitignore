@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+
+# Laravel 5 & Lumen specific
+bootstrap/cache/
+.env.*.php
+.env.php
+.env
+
+.idea/
+storage/
+public/licenseProfile
+/public/userProfile
+/public/api
+/doc
+.DS_Store
+.composer.lock
